@@ -1,0 +1,14 @@
+{
+ margin: 0;
+ padding: 0;
+}
+body {
+ font-family: Helvetica;
+ background: #B9D0DF;
+}
+h2 {
+ font-weight: normal;
+}
+.second_header {
+ text-decoration: underline;
+}
